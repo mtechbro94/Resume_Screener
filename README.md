@@ -66,10 +66,7 @@ The predicted category of the uploaded resume is: **Data Scientist**
 ```
 
 ## Contributors
-- **Your Name** (your.email@example.com)
-
-## License
-This project is licensed under the **MIT License**.
+- **Your Name** (mtechbro94@gmail.com)
 
 ## Future Enhancements
 - Improve accuracy with deep learning models.
